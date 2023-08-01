@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cypress": "^12.17.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0"
+  },
+  "name": "automacao",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
